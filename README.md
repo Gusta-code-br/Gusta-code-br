@@ -7,7 +7,7 @@ I'm a passionate software developer with experience in web development, backend 
 
 ## Tech Skills
 - Languages: Python, PHP, Java, JavaScript, Flutter, Kotlin, Delphi.
-- Frameworks & Libraries: Django, React, CustomTkinter.
+- Frameworks & Libraries: Django, React, CustomTkinter, CodeIgniter, Laravel.
 - Databases: MySQL, FireBird, PostgreSQL.
 
 ## 🤝 Let's Connect
