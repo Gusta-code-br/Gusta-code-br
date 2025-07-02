@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gutavo!
+# 👋 Hi, I'm Gustavo!
 ## About me
 I'm a passionate software developer with experience in web development, backend systems, and mobile apps. My journey into tech began with curiosity and a love for problem-solving, which evolved into a deep fascination with coding and creating impactful solutions. I enjoy learning new technologies, improving my skills, and contributing to open-source projects.
 
